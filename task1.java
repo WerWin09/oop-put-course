@@ -1,4 +1,4 @@
-public class zadanie1 {
+public class task1 {
     
     public static class prostokat {
     int bok1;
