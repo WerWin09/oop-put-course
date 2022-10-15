@@ -16,9 +16,9 @@ public class task1 {
 
     public static void main(String[] args) {
         rectangle red = new rectangle ();
+        red.side1=5;
+        red.side2=10;
         
-
-
         }
 
 }
